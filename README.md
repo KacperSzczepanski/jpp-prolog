@@ -1,4 +1,4 @@
-# jpp-prolog (June 2022)
+# Languages and paradigms of programming - prolog (June 2022)
 Deterministic Finite Automata in Prolog
 
 Automata are represented as:
