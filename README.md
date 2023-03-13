@@ -1,4 +1,4 @@
-# jpp-prolog
+# jpp-prolog (June 2022)
 Deterministic Finite Automata in Prolog
 
 Automata are represented as:
